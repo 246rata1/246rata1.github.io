@@ -1,4 +1,63 @@
 h1 {
   color: green;
-  font-size: 45px;
+  font-size: 35px;
+}
+
+li {
+  list-style: none;
+}
+
+p, li{
+  font-size: 20px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+h3{
+  font-size: 25px;
+}
+
+p, h1, h2, h3, li {
+  font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+}
+
+.body {
+  padding: 50px 100px;
+  background-image: url(/Users/nishimurataichi/Documents/LABO/だるしん.jpg);
+  background-color:rgba(255,255,255,0.8);
+  background-blend-mode:lighten;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.contents-list {
+  display: block;
+  width: 1000px;
+  height: 800px;
+  border: 1px solid gray;
+  background-color: rgba(210, 247, 242, 0.7);
+  box-sizing: border-box;
+  padding: 25px 100px;
+  margin: 50px 100px;
+}
+
+.contents-list li {
+  margin-top: 2px;
+  margin-left: 50px;
+}
+
+.body h2{
+  color: green;
+}
+
+.content {
+  margin-top: 50px;
+  border-top: 1px solid grey;
+}
+
+.image {
+  width: 500px;
+  height: 300px;
 }
