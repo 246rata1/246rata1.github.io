@@ -7,18 +7,6 @@ li {
   list-style: none;
 }
 
-p, li{
-  font-size: 20px;
-}
-
-h2{
-  font-size: 30px;
-}
-
-h3{
-  font-size: 25px;
-}
-
 p, h1, h2, h3, li {
   font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
 }
