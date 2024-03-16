@@ -22,8 +22,8 @@ p, h1, h2, h3, li {
 
 .contents-list {
   display: block;
-  width: 450px;
-  height: 400px;
+  width: 300px;
+  height: 600px;
   border: 1px solid gray;
   background-color: rgba(210, 247, 242, 0.7);
   box-sizing: border-box;
